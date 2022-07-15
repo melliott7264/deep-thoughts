@@ -88,7 +88,7 @@ export const QUERY_ME_BASIC = gql`
   {
     me {
       _id
-      usename
+      username
       email
       friendCount
       friends {
