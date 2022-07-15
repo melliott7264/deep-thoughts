@@ -17,7 +17,7 @@ There will be no installation for the end user. This application will be compile
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+The application is running on Heroku at: https://rocky-tundra-11425.herokuapp.com/.
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
